@@ -8,3 +8,4 @@
 - 05_bpmn.md
 - 06_uml.md
 - 07_er.md
+- 08_database.md
