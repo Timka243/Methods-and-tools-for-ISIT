@@ -34,6 +34,7 @@
 ## Запуск
 ```bash
 docker compose up -d --build
+```
 
 
 # Документация проекта
