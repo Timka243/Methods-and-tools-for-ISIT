@@ -34,3 +34,16 @@
 ## Запуск
 ```bash
 docker compose up -d --build
+
+
+# Документация проекта
+
+Здесь будут файлы:
+- [01. Подробное описание проекта](docs/01_project_description.md)
+- [02. Ментальная карта](docs/02_mindmap.md)
+- [03. IDEF0](docs/03_idef0.md)
+- [04. DFD](docs/04_dfd.md)
+- [05. BPMN](docs/05_bpmn.md)
+- [06. UML](docs/06_uml.md)
+- [07. ER-диаграмма](docs/07_er.md)
+- [08. База данных (PostgreSQL)](docs/08_database.md)
